@@ -1,4 +1,4 @@
-# 🎲 Python Random Number Generator  
+# 🎯 Python Random Number Generator  
 
 A simple and user-friendly **Random Number Generator** built with **PyQt5**. This application allows users to generate a random number between **1 and 1000** with the click of a button. Additionally, it includes a **dark mode toggle** for better usability.  
 
@@ -29,71 +29,95 @@ The application requires the **PyQt5** library for the graphical user interface.
 - Install dependencies using **pip**:  
   ```bash
   pip install PyQt5
-🚀 Installation & Running
-Follow these steps to clone and run the project:
+  ```
 
-1️⃣ Clone the Repository
-bash
-Copy
-Edit
+---
+
+## 🚀 Installation & Running  
+
+Follow these steps to clone and run the project:  
+
+### 1⃣ Clone the Repository  
+```bash
 git clone https://github.com/Develifture/Python-Random-Number-Generator.git
 cd Python-Random-Number-Generator
-2️⃣ Install Dependencies
-bash
-Copy
-Edit
+```
+
+### 2⃣ Install Dependencies  
+```bash
 pip install -r requirements.txt
-(If you don’t have a requirements.txt, manually install PyQt5 as shown in the previous step.)
+```
 
-3️⃣ Run the Application
-bash
-Copy
-Edit
+*(If you don’t have a `requirements.txt`, manually install `PyQt5` as shown in the previous step.)*  
+
+### 3⃣ Run the Application  
+```bash
 python main.py
+```
 
+---
 
-##🖥️ Usage Instructions
-Open the application.
+## 🖥️ Usage Instructions  
 
-Click the "Generate Random Number" button to get a random number.
+1. Open the application.  
+2. Click the **"Generate Random Number"** button to get a random number.  
+3. Toggle **"Dark Mode"** for a different theme.  
+4. Enjoy generating numbers! 🎉  
 
-Toggle "Dark Mode" for a different theme.
+---
 
-Enjoy generating numbers! 🎉
+## 🖼️ Screenshots  
 
+![Screenshot Placeholder](https://via.placeholder.com/800x400?text=Screenshot+of+Application)  
 
-##🛠️ Customization
-🎨 Modify the UI Theme
-The default theme is light mode.
+*(Replace this placeholder with an actual screenshot of your application.)*  
 
-Click the "Toggle Dark Mode" button to switch between themes.
+---
 
-You can edit the styles in set_theme() function inside main.py.
+## 🛠️ Customization  
 
-##🐞 Troubleshooting
-❓ PyQt5 Installation Issues
-If you get an error when installing PyQt5, try:
+### 🎨 Modify the UI Theme  
+- The **default theme** is **light mode**.  
+- Click the **"Toggle Dark Mode"** button to switch between themes.  
+- You can edit the styles in `set_theme()` function inside `main.py`.  
 
-bash
-Copy
-Edit
+---
+
+## 🐞 Troubleshooting  
+
+### ❓ PyQt5 Installation Issues  
+If you get an error when installing PyQt5, try:  
+```bash
 pip install --upgrade pip
 pip install PyQt5
-❓ Application Not Opening
-Ensure you are using Python 3.7+
+```
 
-Check if PyQt5 is installed:
+### ❓ Application Not Opening  
+- Ensure you are using **Python 3.7+**  
+- Check if PyQt5 is installed:  
+  ```bash
+  python -c "import PyQt5; print(PyQt5.__version__)"
+  ```
 
-bash
-Copy
-Edit
-python -c "import PyQt5; print(PyQt5.__version__)"
-❓ GUI Issues (Scaling, Fonts)
-Try running with:
+### ❓ GUI Issues (Scaling, Fonts)  
+- Try running with:  
+  ```bash
+  python main.py --style=Fusion
+  ```
 
-bash
-Copy
-Edit
-python main.py --style=Fusion
-##📜 License
-This project is open-source and free to use under the MIT License.
+---
+
+## 🌟 License  
+
+This project is **open-source** and free to use under the **MIT License**.  
+
+---
+
+## 👤 Author  
+
+- **GitHub:** [Develifture](https://github.com/Develifture)  
+- **Project Repository:** [Python-Random-Number-Generator](https://github.com/Develifture/Python-Random-Number-Generator-)  
+
+---
+
+### ⭐ If you found this useful, give it a **star** on GitHub! ⭐  
