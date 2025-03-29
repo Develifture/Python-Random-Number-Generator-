@@ -50,6 +50,8 @@ bash
 Copy
 Edit
 python main.py
+
+
 🖥️ Usage Instructions
 Open the application.
 
@@ -59,9 +61,6 @@ Toggle "Dark Mode" for a different theme.
 
 Enjoy generating numbers! 🎉
 
-📸 Screenshots
-
-(Replace this placeholder with an actual screenshot of your application.)
 
 🛠️ Customization
 🎨 Modify the UI Theme
