@@ -39,7 +39,7 @@ Follow these steps to clone and run the project:
 
 ### 1⃣ Clone the Repository  
 ```bash
-git clone https://github.com/Develifture/Python-Random-Number-Generator.git
+git clone https://github.com/Develifture/Python-Random-Number-Generator-.git
 cd Python-Random-Number-Generator
 ```
 
@@ -63,14 +63,6 @@ python main.py
 2. Click the **"Generate Random Number"** button to get a random number.  
 3. Toggle **"Dark Mode"** for a different theme.  
 4. Enjoy generating numbers! 🎉  
-
----
-
-## 🖼️ Screenshots  
-
-![Screenshot Placeholder](https://via.placeholder.com/800x400?text=Screenshot+of+Application)  
-
-*(Replace this placeholder with an actual screenshot of your application.)*  
 
 ---
 
