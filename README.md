@@ -52,7 +52,7 @@ Edit
 python main.py
 
 
-🖥️ Usage Instructions
+##🖥️ Usage Instructions
 Open the application.
 
 Click the "Generate Random Number" button to get a random number.
@@ -62,7 +62,7 @@ Toggle "Dark Mode" for a different theme.
 Enjoy generating numbers! 🎉
 
 
-🛠️ Customization
+##🛠️ Customization
 🎨 Modify the UI Theme
 The default theme is light mode.
 
@@ -70,7 +70,7 @@ Click the "Toggle Dark Mode" button to switch between themes.
 
 You can edit the styles in set_theme() function inside main.py.
 
-🐞 Troubleshooting
+##🐞 Troubleshooting
 ❓ PyQt5 Installation Issues
 If you get an error when installing PyQt5, try:
 
@@ -95,10 +95,5 @@ bash
 Copy
 Edit
 python main.py --style=Fusion
-📜 License
+##📜 License
 This project is open-source and free to use under the MIT License.
-
-👤 Author
-GitHub: Develifture
-
-Project Repository: Python-Random-Number-Generator
